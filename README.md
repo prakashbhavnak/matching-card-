@@ -35,3 +35,33 @@ A modern, responsive Memory Matching Game built with **React**, **TypeScript**, 
 
 ## 📂 Folder Structure
 
+---
+
+## 🧩 How to Play
+
+1. Click on any two cards to flip them.
+2. If they match, they stay flipped.
+3. If not, they flip back.
+4. Match all cards to complete the game!
+5. Try to beat your best score and time.
+
+---
+
+## 🧪 Running Locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/matching-card-.git
+
+Install dependencies
+npm install
+npm run dev
+npm run build
+
+
+---
+
+
+
+
+
